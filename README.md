@@ -3,7 +3,7 @@ I wanted to see my own total expenses of staying 1 year in Canada. However, CIBC
 - Downloaded data from CIBC Bank, Canada in CSV format.
 - Merge chequing, savings, and credit card transactions into one sheet.
 - Covert data into categories.
-- Used Pivot tVLOOKUP, Remove Duplicates, and other formulas.
+- Used Pivot VLOOKUP, Remove Duplicates, and other formulas.
 
 
 ![Alt text](https://github.com/Bhadreshwara/PersonalExpenseTracker/blob/main/ExpenseSummary.png)
